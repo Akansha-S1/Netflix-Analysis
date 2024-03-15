@@ -12,17 +12,24 @@ From understanding trends in content distribution to uncovering viewing habits a
 
 💻 Dive into the code and discover the fascinating world of Netflix data analysis! 🌟
 
-Challenges Faced & Solutions:
+# Challenges Faced & Solutions
 
-Variable Naming: Difficulty arose in naming variables consistently and intuitively due to the complexity of the dataset. Overcame by establishing clear naming conventions and documenting them for consistency.
+In the process of working with the Netflix dataset, several challenges were encountered. Here's a summary of the challenges faced and the solutions implemented:
 
-Domain-specific Terminology: Ambiguity in domain-specific terms led to confusion during analysis. Addressed by consulting domain experts and literature to clarify terminology and ensure accurate interpretation.
+## Challenges:
 
-Ambiguity: Ambiguous data points and interpretations hindered analysis accuracy. Mitigated by conducting thorough data validation and cross-referencing with multiple sources to clarify any discrepancies.
+1. **Duplicate Entries:** Duplicate entries disrupted data accuracy.
+2. **Naming Variables:** Difficulty faced in naming variables according to the Netflix dataset.
+3. **Domain-specific Terminology:** Ambiguity due to domain-specific terminology.
 
-Oversimplification: Risk of oversimplifying complex data structures and relationships during visualization. Managed by using appropriate visualization techniques that accurately represent the complexity of the data without sacrificing clarity.
+## Solutions:
 
-Need for Accuracy: Ensuring accurate and unbiased visualization techniques to derive meaningful insights. Achieved by rigorously verifying data integrity and employing statistical methods to minimize bias in analysis.
+1. **Handling Duplicate Entries:** Implemented methods to identify and remove duplicate entries from the dataset.
+2. **Variable Naming:** Employed systematic naming conventions and consulted domain experts to ensure clarity.
+3. **Terminology Clarification:** Defined domain-specific terms in a glossary and clarified their usage in the analysis.
+
+These solutions helped mitigate the challenges encountered, ensuring the accuracy and reliability of the analysis conducted on the Netflix dataset.
+
 
 
 
